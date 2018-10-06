@@ -1,0 +1,22 @@
+{
+  "name": "pslack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vovchansky",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vovchansky/slack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vovchansky/slack/issues"
+  },
+  "homepage": "https://github.com/Vovchansky/slack#readme",
+  "description": "",
+  "devDependencies": {
+    "webpack": "^4.20.2"
+  }
+}
