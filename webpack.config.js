@@ -1,10 +1,10 @@
 module.exports = {
     module: {
-        loaders: [
+        rules: [
             {
                 test: /\.js/,
                 loader: 'babel-loader',
-                include: slack_front + '/src',
+                include: /slack_front/ + '/src',
             }
         ],
     }
