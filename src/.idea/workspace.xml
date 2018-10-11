@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3aec335-57f3-4d89-9f15-0aa7b76dd1b1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../node_modules/source-list-map/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/source-list-map/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../node_modules/source-list-map/lib/CodeNode.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/source-list-map/lib/CodeNode.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../node_modules/source-list-map/lib/MappingsContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/source-list-map/lib/MappingsContext.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../node_modules/source-list-map/lib/SingleLineNode.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/source-list-map/lib/SingleLineNode.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../node_modules/source-list-map/lib/SourceListMap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/source-list-map/lib/SourceListMap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../node_modules/source-list-map/lib/SourceNode.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/source-list-map/lib/SourceNode.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../node_modules/source-list-map/lib/base64-vlq.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/source-list-map/lib/base64-vlq.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../node_modules/source-list-map/lib/fromStringWithSourceMap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/source-list-map/lib/fromStringWithSourceMap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../node_modules/source-list-map/lib/helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/source-list-map/lib/helpers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../node_modules/source-list-map/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/source-list-map/lib/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../node_modules/source-list-map/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/source-list-map/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../node_modules/webpack/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/webpack/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/test.js" afterDir="false" />
-    </list>
+    <list default="true" id="e3aec335-57f3-4d89-9f15-0aa7b76dd1b1" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -80,20 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../webpack.config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="75">
+              <caret line="5" column="7" selection-start-line="5" selection-end-line="5" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -187,11 +160,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/utils" />
     <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -247,7 +222,7 @@
       <workItem from="1539001247650" duration="60000" />
       <workItem from="1539184195160" duration="3030000" />
       <workItem from="1539187438876" duration="6911000" />
-      <workItem from="1539249806064" duration="4903000" />
+      <workItem from="1539249806064" duration="5686000" />
     </task>
     <task id="LOCAL-00001" summary="index.js created">
       <created>1538865012354</created>
@@ -274,7 +249,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16823000" />
+    <option name="totallyTimeSpent" value="17606000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="990" extended-state="6" />
@@ -370,13 +345,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -391,10 +359,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="75">
+          <caret line="5" column="7" selection-start-line="5" selection-end-line="5" selection-end-column="7" />
         </state>
       </provider>
     </entry>
