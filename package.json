@@ -1,7 +1,6 @@
 {
   "name": "slack-pack",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "babel": "^6.23.0",
@@ -40,5 +39,6 @@
   "bugs": {
     "url": "https://github.com/Vovchansky/2018-FS-11-Frontend-Chernyy/issues"
   },
-  "homepage": "https://github.com/Vovchansky/2018-FS-11-Frontend-Chernyy#readme"
+  "homepage": "https://github.com/Vovchansky/2018-FS-11-Frontend-Chernyy#readme",
+  "description": ""
 }
