@@ -6,7 +6,7 @@ module.exports = {
     entry: { main: './src/index.js' },
     output: {
         path: path.resolve(__dirname, 'dist'),
-        filename: 'main.js'
+        filename: 'main.js',
     },
     module: {
         rules: [
@@ -14,7 +14,7 @@ module.exports = {
                 test: /\.js$/,
                 exclude: /node_modules/,
                 use: {
-                    loader: "babel-loader"
+                    loader: "babel-loader",
                 }
             },
             {
@@ -22,7 +22,7 @@ module.exports = {
                 use: ExtractTextPlugin.extract(
                     {
                         fallback: 'style-loader',
-                        use: ['css-loader']
+                        use: ['css-loader'],
                     })
             }
         ]
@@ -34,7 +34,7 @@ module.exports = {
         new HtmlWebpackPlugin({
             inject: false,
             hash: true,
-            template: './index.html',
+            template: './src/index.html',
             filename: 'index.html'
         })
     ]
