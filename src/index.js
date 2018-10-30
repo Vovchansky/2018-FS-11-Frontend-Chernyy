@@ -1,2 +1,4 @@
-import say from './lib/test.js';
-say('Vladimir');
+import './style.css';
+import say from './lib/test';
+
+say('Vova');

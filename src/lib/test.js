@@ -1,7 +1,7 @@
-const say = function (name) {
-    alert(`Hello, ${name}` + '!');
-    var myTable = "<table><tr><td style='width: 3000px; height: 1000px; background-color: hotpink; text-align: center;'>SAMPLE TABLE</td>";
-    document.write(myTable);
-}
+const say = function say(name) {
+    const el = document.createElement('div');
+    el.innerText = `Hello, ${name}!!!`;
+    document.body.appendChild(el);
+};
 
 export default say;
